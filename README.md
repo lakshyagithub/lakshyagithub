@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakshyagithub
 - 👀 I’m interested in HTML
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Python
 - 📫 How to reach me lakshyasc2708@gmail.com
 
 <!---
