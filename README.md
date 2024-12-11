@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lakshyagithub
 - 👀 I’m interested in HTML
 - 🌱 I’m currently learning Python
-- 📫 How to reach me lakshyasc2708@gmail.com
+- 📫 How to reach me lakshya.asc@gmail.com
 
 <!---
 lakshyagithub/lakshyagithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
