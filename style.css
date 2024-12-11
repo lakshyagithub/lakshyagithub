@@ -34,3 +34,7 @@ body {
     background-color: yellowgreen;
     border-radius: 5%;
 }
+.logo {
+  height: 70px;
+  width: 70px;
+}
