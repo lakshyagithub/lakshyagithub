@@ -1,18 +1,6 @@
-body {
-  background-size: cover;
-  background-image: url(background.jpg);
-}
-.lakshya {
-  padding-top: 1px;
-}
 .lakshya-1 {
-  margin-top: 20px;
-  margin-right: 20px;
-  margin-bottom: 20px;
   width: 300px;
   height: 300px;
-  object-fit: cover;
-  border-radius: 5%;
 }
 .logo {
   height: 70px;
@@ -26,4 +14,12 @@ body {
 }
 .container-sl {
   background-color: yellowgreen;
+}
+.cenetr {
+  text-align: center;
+}
+#home {
+  color: white;
+  text-align: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
 }
