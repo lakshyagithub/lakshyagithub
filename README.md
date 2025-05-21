@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lakshyagithub
+- 👋 Hi, I’m Lakshya Singh Chauhan
 - 👀 I’m interested in HTML
 - 🌱 I’m currently learning Python
-- 📫 How to reach me lakshya.asc@gmail.com
+- 📫 My e-mail is lakshya.asc@gmail.com
 
 <!---
 lakshyagithub/lakshyagithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
