@@ -20,7 +20,7 @@ I'm a passionate **Web Developer** who loves building creative solutions and exp
 
 ## 💖 Support My Work
 
-[![Support via UPI](https://lh3.googleusercontent.com/d/1zjk1S-VnYDTFh66Zm4ue-Z41Q4N9hXyJ)](upi://pay?pa=8320390785@ybl&pn=Lakshya)
+[![Support via UPI](https://drive.google.com/uc?export=view&id=1zjk1S-VnYDTFh66Zm4ue-Z41Q4N9hXyJ)](upi://pay?pa=8320390785@ybl&pn=Lakshya)
 
 📲 UPI ID: `lakshya@upi`
 
