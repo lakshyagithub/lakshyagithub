@@ -18,6 +18,12 @@ I'm a passionate **Web Developer** who loves building creative solutions and exp
 - Personal Website: [lakshyasinghchauhan.com](https://lakshyasinghchauhan.com)
 - Email: lakshya.asc@gmail.com
 
+## 💖 Support My Work
+
+[![Support via UPI](https://lh3.googleusercontent.com/d/1zjk1S-VnYDTFh66Zm4ue-Z41Q4N9hXyJ)](upi://pay?pa=8320390785@ybl&pn=Lakshya)
+
+📲 UPI ID: `lakshya@upi`
+
 ---
 
 Thanks for visiting my profile! If you share my interests or want to collaborate, feel free to connect or check out my work.
