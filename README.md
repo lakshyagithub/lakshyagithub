@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/lakshyagithub?affiliation=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge&logo=github)
 ![Profile views](https://komarev.com/ghpvc/?username=lakshyagithub&style=for-the-badge&color=blue)
 ![Last Commit](https://img.shields.io/github/last-commit/lakshyagithub/lakshyagithub?style=for-the-badge&logo=git)
-[![Tip Me!](https://img.shields.io/badge/Tip%20Me%20%E2%9D%A4%EF%B8%8F-getmetoffee-blue?style=for-the-badge&logo=buymeacoffee)](https://getmetoffee.vercel.app/payment.html?upiId=8320390785%40pz&name=Lakshya+Singh+Chauhan&price=10)
+[![Tip Me!](https://img.shields.io/badge/Tip%20Me%20%E2%9D%A4%EF%B8%8F-get%20me%20toffee-green?style=for-the-badge&logo=phonepe)](https://getmetoffee.vercel.app/payment.html?upiId=8320390785%40pz&name=Lakshya+Singh+Chauhan&price=10)
 
 I'm a passionate **Web Developer** who loves building creative solutions and experimenting with technology—especially on Windows.
 
