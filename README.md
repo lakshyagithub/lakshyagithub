@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lakshya!
 
-![GitHub followers](https://img.shields.io/github/followers/lakshyaelelite?label=Followers&style=for-the-badge&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/lakshyaelite?label=Followers&style=for-the-badge&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/lakshyaelite?affiliation=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge&logo=github)
 ![Profile views](https://komarev.com/ghpvc/?username=lakshyaelite&style=for-the-badge&color=blue)
 ![Last Commit](https://img.shields.io/github/last-commit/lakshyaelite/lakshyaelite?style=for-the-badge&logo=git)
